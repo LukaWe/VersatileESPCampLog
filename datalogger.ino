@@ -29,8 +29,8 @@ extern "C" {
 }
 
 // WiFi Credentials
-#define WIFI_SSID "hp.w"
-#define WIFI_PASS "moep1337rofl"
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "SSIDPASSWORD"
 
 // Pin Definitions
 #define PIN_SD_CS D8
