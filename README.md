@@ -1,5 +1,5 @@
-# ESP8266 Environmental Datalogger
-A battery-friendly environmental monitoring system built on the **Wemos D1 Mini** (ESP8266) that logs temperature, humidity, and water temperature to an SD card with precise timestamps from a real-time clock.
+# ESP8266 Sensor Datalogger
+A battery-friendly sensor monitoring system built on the **Wemos D1 Mini** (ESP8266) that logs temperature, humidity, and water temperature to an SD card with precise timestamps from a real-time clock.
 
 ![Demo of the datalogger in action](screenshot/demo.webp)
 
